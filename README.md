@@ -5,4 +5,4 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: node.js</code>
-<code>💬 telegram: [@lukianenko78](https://telegram.me/lukianenko78)</code>
+<code>💬 telegram: [@ZiBeRt78](https://telegram.me/lukianenko78)</code>
